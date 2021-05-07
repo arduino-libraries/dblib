@@ -34,4 +34,4 @@ Rescued by D. Cuartielles from the Google Code Archive and modified to become an
 ## License
 GNU Lesser General Public License as published by the Free Software Foundation version 2.1
 
-See [LICENSE.md] for more information
+See [LICENSE] for more information
