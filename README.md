@@ -25,11 +25,13 @@ Remember that this code runs only on AVR-based boards, which typically are very 
 Help maintaining this library, fork the repository and send pull requests our way.
 
 ## Credit
-Originally written by Madhusudana das and stored on Google Code
+Originally written by ***Madhusudana das*** and stored on Google Code
 
 Published on the Arduino Playground Wiki
 
 Rescued by D. Cuartielles from the Google Code Archive and modified to become an official library
+
+(C) 2021 Arduino
 
 ## License
 GNU Lesser General Public License as published by the Free Software Foundation version 2.1
